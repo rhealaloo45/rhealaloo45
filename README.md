@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhealaloo45
-- 👀 I’m interested in Programming 
-- 👩🏻‍💻 I’m currently pursuing B. Tech.(Information Technology) from K. J. Somaiya Institute of engineering and Information Technology.
+- 👀 I’m interested in Programming, Apple and just Tech in general.
+- 👩🏻‍💻 I know: C, C++, Java, HTML, IOS development.
 - 📫 Reachout to me: rhea.laloo@somaiya.edu
 
 <!---
