@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rhealaloo45
-- 👀 I’m interested in Programming, Apple and just Tech in general.
+- 👀 I’m like Programming, Apple and just Tech in general.
 - 👩🏻‍💻 I know: C, C++, Java, HTML, CSS, Web development.
 - 📫 Reachout to me: rhea.laloo@somaiya.edu
 
