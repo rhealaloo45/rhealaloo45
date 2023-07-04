@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rhealaloo45
-- 👀 I
--  like Programming, Apple and just Tech in general.
-- 👩🏻‍💻 I know: C, C++, Java, HTML, CSS, Web development.
+- 👀 I like Programming, Apple and just Tech in general.
+- 👩🏻‍💻 I know: Python, Java ,C, C++, HTML, CSS, Web development and frameworks like Django.
 - 📫 Reachout to me: rhea.laloo@somaiya.edu
 
 <!---
