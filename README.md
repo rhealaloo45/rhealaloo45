@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhealaloo45
-- 👀 I like Programming, Apple and just Tech in general.
-- 👩🏻‍💻 I know: Python, Java ,C, C++, HTML, CSS, Web development and frameworks like Django.
+- 👀 I like to build stuff.
+- 👩🏻‍💻 I work with Java, Python, C/C++, Django for web, React Native for apps, and build cool stuff in AI/ML and IoT.
 - 📫 Reachout to me: rhea.laloo@somaiya.edu
 
 <!---
