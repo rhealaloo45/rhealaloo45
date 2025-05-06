@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rhealaloo45
-- 👀 I like to build stuff.
+- 🛠️ I like to build stuff.
 - 👩🏻‍💻 I work with Java, Python, C/C++, Django for web, React Native for apps, and build cool stuff in AI/ML and IoT.
 - 📫 Reachout to me: rhea.laloo@somaiya.edu
 
