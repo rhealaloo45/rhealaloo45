@@ -1,4 +1,4 @@
-# Rhea 👩🏻‍💻
+# Rhea.dev
 - 🧠 AI Systems • ML/DL • LLM Applications • Knowledge Platforms
 - ⚡ RAG • Semantic Search • Backend Engineering • System Design
 - 🛠️ Python • Java • Flask • Django • React Native 
